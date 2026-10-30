@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi there!
 
-<!--
-**H-a-S-a-N-990/H-a-S-a-N-990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📢 I've moved to a new GitHub account!
 
-Here are some ideas to get you started:
+Due to GitHub Actions workflows being disabled on this account, I've decided to move my development activity to a new account.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 My new and primary GitHub account is:
+
+👉 "@HasanForge" (https://github.com/HasanForge)
+
+All my new projects, updates, repositories, and development activity will be published there.
+
+This account is no longer my primary development account.
